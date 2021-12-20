@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/C++/lab1/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -Wall -pedantic -Werror -std=gnu++17 -o CMakeFiles\\lab_1.dir\\main.cpp.obj -c C:\\C++\\lab1\\main.cpp",
+  "file": "C:/C++/lab1/main.cpp"
+},
+{
+  "directory": "C:/C++/lab1/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -Wall -pedantic -Werror -std=gnu++17 -o CMakeFiles\\lab_1.dir\\func.cpp.obj -c C:\\C++\\lab1\\func.cpp",
+  "file": "C:/C++/lab1/func.cpp"
+}
+]
